@@ -1,4 +1,4 @@
-import shipmentList from "./pages/ShipmentList";
+import ShipmentList from "./pages/shipmentList";
 
 function App() {
   return (
